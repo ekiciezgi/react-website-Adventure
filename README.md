@@ -1,3 +1,7 @@
+![Ekran görüntüsü 2021-12-09 191249](https://user-images.githubusercontent.com/78070798/145434381-807ebacf-ee8b-43a1-b940-e64b74ab2422.png)
+
+![Ekran görüntüsü 2021-12-09 191303](https://user-images.githubusercontent.com/78070798/145434408-e09bd1c3-5fe5-4eb0-a144-95f41ca305c9.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
